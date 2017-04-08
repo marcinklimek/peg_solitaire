@@ -2,9 +2,11 @@
 
 Solver in python for peg solitaire on triangle board. Brute force method witout optimalization.
 
+![Peg solitaire board](https://github.com/marcinklimek/peg_solitaire/blob/master/img/peg_solitaire.jpg?raw=true)
+
 ## Why?
 
-A few days ago my dauther  
+A few days ago, my daughter tried to solve this puzzle. To impress her :) I needed to find the solution. A Billion tries later I've found one. But this led me to solve all possible starting points. We can group starting positions to 4 cases. I've known 3 of 4 after a while, but one was hard to find. The one in the middle on index __04__. That's why I wrote this solver. It took me 3h late night, so the code is a bit ugly. But it works :) 
 
 ## More info - links
 
